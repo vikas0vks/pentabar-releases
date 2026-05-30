@@ -10,7 +10,7 @@ A clean, offline, ad-free pentesting browser for **bug bounty &amp; web security
 SQLi arsenal, DIOS engine, a Burp-style Repeater &amp; Interceptor, HTTP history and a modern,
 distraction-free UI.
 
-![version](https://img.shields.io/badge/version-2.0-0B7DBE?style=flat-square)
+![version](https://img.shields.io/badge/version-2.1-0B7DBE?style=flat-square)
 ![platform](https://img.shields.io/badge/Android-7%20–%2016-2E3440?style=flat-square&logo=android&logoColor=white)
 ![min sdk](https://img.shields.io/badge/minSdk-21-2E3440?style=flat-square)
 ![bug bounty](https://img.shields.io/badge/bug%20bounty-ready-3A9D6E?style=flat-square)
