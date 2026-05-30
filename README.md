@@ -83,7 +83,8 @@ installation across modern Android versions.
 ## Credits
 
 **Created by [vikas0vks](https://github.com/vikas0vks)** — Developer &amp; Designer
-**Special Support &amp; Credit — amit0hx**
+
+**Special Support &amp; Credit — [amit0hx](https://github.com/amit0hx)**
 
 <div align="center">
 
